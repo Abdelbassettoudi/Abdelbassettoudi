@@ -3,7 +3,7 @@
 <h3 align="center">A Full Stack Developer from Morocco, dedicated to delivering high-quality and user-friendly solutions.</h3>
 
 
-<img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
+<img align="right" alt="coding" width="400" src="https://dheeraj-2000.github.io/images/programmer2.png">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelbassettoudi&label=Profile%20views&color=0e75b6&style=flat" alt="abdelbassettoudi" /> </p>
